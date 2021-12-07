@@ -1,3 +1,5 @@
+>This repo has redacted code, do not use this version. Go here for full version of this repo: https://github.com/erceth/OPENCV-FFMPEG-HLS-VMS-JS-PY
+
 # OpenCV FFmpeg HLS Video Management System
 ![opencv ffmpeg HLS all wrapped together using Javascript](./opencv-ffmpeg-hls-py.png)
 Video management system that uses openCV, FFmpeg, and HLS. Written in Node, Javascript and Python
